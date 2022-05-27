@@ -1,8 +1,17 @@
 { 
    "force_update":false,
-   "version":7.1,
+   "version":11,
    "changelog":"
-   \n[Base] 208.0.0.32.135!
-   \n[Added] Download Settings!
+   \n[Base] 232.0.0.16.144
+\n[Extend] Story Extended 15 SEC to 60 SEC
+\n[ Added ] Font Styles
+\n[Added] Msg Translations
+\n[ReAdded] Multiple Logo
+\n[Fixed] Live Ghost Mod
+\n[ADS]  Ads Almost Removed
+\n[Fixed] Many Random Crash
+\n[Fixed] Android 12 Supported
+\n[Exclusive] Added Themes
+\n[Improve] Quality Improved Post
    \n[Fixed] Many other fixes and improvements!"
 }
